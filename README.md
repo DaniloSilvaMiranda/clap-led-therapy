@@ -30,6 +30,10 @@ clap-led-therapy/
 •	Integração com display LCD
 📜 Licença
 Projeto de caráter educacional e experimental.
+
+
+
+
 Therapeutic project using Arduino and RGB LEDs, designed to stimulate motor coordination, attention, and reaction time through visual stimuli activated by claps or sound signals.
 The system lights up RGB LEDs in response to sound input, encouraging physical reaction to visual cues. It can be applied in educational, therapeutic, or experimental environments.
 🧠 Project Goals
