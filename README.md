@@ -66,3 +66,18 @@ clap-led-therapy/
 •	LCD display integration
 📜 License
 Educational and experimental project.
+
+---
+
+## Project Prototype
+
+> This project was physically built using Arduino, an RGB LED strip, a sound sensor,
+> and a handmade MDF box shaped like a tree to provide visual stimulation.
+
+![Prototype](docs/prototype.jpg)
+
+---
+
+## Demonstration Video
+
+▶️ https://youtube.com/YOUR_VIDEO_LINK_HERE
